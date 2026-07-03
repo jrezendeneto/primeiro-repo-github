@@ -13,4 +13,4 @@ Esse projeto foi criado com a ajuda do Claude Code para praticar:
 
 ## Como contribuir
 
-Se vocë quiser contribuir, basta abrir um Pull Request com sua sugestão.
+Se você quiser contribuir, basta abrir um Pull Request com sua sugestão.
